@@ -1,5 +1,7 @@
+from dev_A_tools import greet
 # Step 1: Basic output
 print("Welcome to the Git exercise!")
+print(greet("Dev.A"))
 
 # Step 2: A simple calculation
 def subtract(a, b):
