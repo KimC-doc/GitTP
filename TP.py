@@ -18,3 +18,16 @@ print("Lucky number:", random.randint(1, 100))
 
 # Step 4: Final message
 print("Congratulations!")
+
+# Step 5: Multiplication
+# def multiply(a, b):
+#     return a * b
+# print("3 * 4 =", multiply(3, 4))
+
+# Step 6: User input
+# name = input("Enter your name: ")
+# print("Hello,", name)
+
+# Step 7: List processing
+# numbers = [1, 2, 3, 4, 5]
+# print("Sum of list:", sum(numbers))
