@@ -19,10 +19,10 @@ print("Lucky number:", random.randint(1, 100))
 # Step 4: Final message
 print("Congratulations!")
 
-# Step 5: Multiplication
-# def multiply(a, b):
-#     return a * b
-# print("3 * 4 =", multiply(3, 4))
+# Step 5: Multiplication (multiply two numbers)
+def multiply(a, b):
+     return a * b
+print("3 * 4 =", multiply(3, 4))
 
 # Step 6: User input
 # name = input("Enter your name: ")
